@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\AHMED\Desktop\api</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Encryptor.dll">
+      <publishTime>11/22/2018 21:55:00</publishTime>
+    </File>
+    <File Include="BanMethods.asmx">
+      <publishTime>11/21/2018 22:47:22</publishTime>
+    </File>
+    <File Include="bin/BanSys_Ws.dll">
+      <publishTime>08/05/2019 16:59:38</publishTime>
+    </File>
+    <File Include="bin/BanSys_Ws.pdb">
+      <publishTime>08/05/2019 16:09:21</publishTime>
+    </File>
+    <File Include="bin/Encryptor.dll">
+      <publishTime>11/22/2018 21:55:00</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/21/2018 13:46:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.intellisense.js">
+      <publishTime>11/21/2018 22:46:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>11/21/2018 22:46:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>11/21/2018 22:46:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/05/2019 16:59:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

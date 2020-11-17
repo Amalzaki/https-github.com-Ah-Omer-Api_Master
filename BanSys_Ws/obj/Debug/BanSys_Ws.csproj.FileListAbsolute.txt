@@ -1,0 +1,54 @@
+D:\Master Docs\Research Of MSC\Apps\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+D:\Master Docs\Research Of MSC\Apps\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll.config
+D:\Master Docs\Research Of MSC\Apps\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+D:\Master Docs\Research Of MSC\Apps\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+D:\Master Docs\Research Of MSC\Apps\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+D:\Master Docs\Research Of MSC\Apps\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+D:\Master Docs\Research Of MSC\Apps\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
+E:\Visa_Sources\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+E:\Visa_Sources\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+E:\Visa_Sources\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+E:\Visa_Sources\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+E:\Visa_Sources\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
+E:\Visa_Sources\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+E:\ahmed omer\kushite\الحظر\API\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll.config
+E:\ahmed omer\kushite\الحظر\API\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+E:\ahmed omer\kushite\الحظر\API\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+E:\ahmed omer\kushite\الحظر\API\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+E:\ahmed omer\kushite\الحظر\API\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+E:\ahmed omer\kushite\الحظر\API\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+E:\ahmed omer\kushite\الحظر\API\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
+E:\Visa_Sources\ban_after_UsM\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+E:\Visa_Sources\ban_after_UsM\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+E:\Visa_Sources\ban_after_UsM\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+E:\Visa_Sources\ban_after_UsM\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+E:\Visa_Sources\ban_after_UsM\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+E:\Visa_Sources\ban_after_UsM\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
+F:\Softwaer\Ban System\Application\Orgenal after UM\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll.config
+F:\Softwaer\Ban System\Application\Orgenal after UM\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+F:\Softwaer\Ban System\Application\Orgenal after UM\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+F:\Softwaer\Ban System\Application\Orgenal after UM\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+F:\Softwaer\Ban System\Application\Orgenal after UM\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+F:\Softwaer\Ban System\Application\Orgenal after UM\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+F:\Softwaer\Ban System\Application\Orgenal after UM\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
+C:\Users\AHMED\Desktop\newBan\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll.config
+C:\Users\AHMED\Desktop\newBan\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+C:\Users\AHMED\Desktop\newBan\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+C:\Users\AHMED\Desktop\newBan\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+C:\Users\AHMED\Desktop\newBan\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\newBan\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+C:\Users\AHMED\Desktop\newBan\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
+C:\Users\AHMED\Desktop\newBan\newapi\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll.config
+C:\Users\AHMED\Desktop\newBan\newapi\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+C:\Users\AHMED\Desktop\newBan\newapi\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+C:\Users\AHMED\Desktop\newBan\newapi\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+C:\Users\AHMED\Desktop\newBan\newapi\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\newBan\newapi\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+C:\Users\AHMED\Desktop\newBan\newapi\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
+E:\ahmed omer\hp\amal\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll.config
+E:\ahmed omer\hp\amal\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.dll
+E:\ahmed omer\hp\amal\BanSys_Ws\BanSys_Ws\bin\BanSys_Ws.pdb
+E:\ahmed omer\hp\amal\BanSys_Ws\BanSys_Ws\bin\Encryptor.dll
+E:\ahmed omer\hp\amal\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.csprojResolveAssemblyReference.cache
+E:\ahmed omer\hp\amal\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.dll
+E:\ahmed omer\hp\amal\BanSys_Ws\BanSys_Ws\obj\Debug\BanSys_Ws.pdb
